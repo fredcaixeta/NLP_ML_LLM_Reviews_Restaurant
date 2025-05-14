@@ -1,14 +1,3 @@
-# Arquivo gerado com as dependências do projeto
-
-# Manipulação de dados e DataFrames
-pandas>=2.0
-
-# Aprendizado de Máquina e Utilitários (TF-IDF, Modelos, Split, Métricas, Pipelines)
-scikit-learn>=1.2
-
-# Rastreamento e Gerenciamento de Experimentos de ML
-mlflow>=2.8
-
 # Cliente HTTP assíncrono (usado no agent_llm para chamadas de API)
 aiohttp>=3.9
 
@@ -20,4 +9,12 @@ fastparquet>=2023.8 # Alternativa/Complementar ao pyarrow para Parquet
 matplotlib>=3.7   # Criação de gráficos estáticos
 seaborn>=0.12     # Gráficos estatísticos mais bonitos e complexos (baseado em matplotlib)
 wordcloud>=1.9    # Geração de nuvens de palavras
-numpy>=1.24       # Suporte a arrays e operações numéricas (base para muitas outras bibliotecas)
+
+mlflow==2.21.2
+cloudpickle==3.1.1
+numpy==1.26.4
+pandas==2.2.3
+pathlib==1.0.1
+psutil==5.9.8
+scikit-learn==1.5.2
+scipy==1.15.1
