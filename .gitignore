@@ -1,0 +1,162 @@
+# Arquivos temporários do sistema operacional
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.Trash/
+._*
+
+# Arquivos de log
+*.log
+*.out
+*.err
+
+# Arquivos temporários de editores de texto e IDEs
+.swp
+.swo
+*.bak
+*.tmp
+*.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+*.komodo_project
+*.pydevproject/
+*.ropeproject/
+.sourcetreeignore
+.tern-project
+.ipb_cache/
+.project
+.settings/
+*.esproj
+*.njsproj
+*.sln.docstates
+*.suo
+*.ntvs*
+*.vcproj
+*.vcxproj
+*.builds
+*.pid
+*.userprefs
+.history
+*.launch
+*.vs/
+*.ptvs*
+my.ini.swp
+
+# Arquivos Python específicos
+__pycache__/
+*.pyc
+*.pyo
+dist/
+build/
+eggs/
+.eggs/
+sdist/
+develop-eggs/
+pip-wheel-metadata/
+PKG-INFO
+.python-version
+_build/
+wheels/
+*.egg-info/
+.tox/
+.coverage
+.coverage.*
+nosetests.xml
+pytest_cache/
+*.pyd
+*.so
+
+# Arquivos Node.js específicos
+node_modules/
+npm-debug.log*
+yarn-error.log*
+lerna-debug.log*
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+.pnp.js
+.pnp.cjs
+.cache/
+.eslintcache
+.stylelintcache
+dist/
+build/
+coverage/
+
+# Arquivos Java específicos
+*.class
+*.jar
+*.war
+*.ear
+target/
+bin/
+.gradle/
+.m2/
+build/
+
+# Arquivos Ruby específicos
+.bundle/
+vendor/bundle
+*.gem
+Gemfile.lock
+.ruby-version
+tmp/
+
+# Arquivos Go específicos
+bin/
+pkg/
+vendor/
+
+# Arquivos Docker específicos
+docker-compose.override.yml
+docker-compose.prod.yml
+.dockerenv
+.env
+.env.*
+!.env.example
+!docker-compose.yml
+
+# Arquivos de dados e modelos grandes (se não devem ser versionados)
+data/
+models/
+*.csv
+*.parquet
+*.npy
+*.pt
+*.pth
+*.h5
+
+# MLflow artifacts and runs
+mlruns/
+mlflow/
+mlflow*.log
+
+# Arquivos de ambiente virtual
+venv/
+env/
+.venv/
+.env
+
+# Outros arquivos específicos do projeto (adicione conforme necessário)
+# Exemplo: arquivos de configuração sensíveis
+config.ini
+secrets.json
+api_keys.txt
+
+# Ignore arquivos temporários de diff
+*.orig
+*.rej
+*.patch
+
+# Ignore arquivos criados por ferramentas de linting e formatação (opcional, dependendo do seu fluxo de trabalho)
+.ruff_cache/
+.mypy_cache/
+.dmypy_cache/
+.flake8
+.pylintrc
+.editorconfig
+*.elc
+*.fasl
