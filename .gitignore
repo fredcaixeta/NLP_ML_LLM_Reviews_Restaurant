@@ -130,6 +130,8 @@ models/
 *.h5
 
 # MLflow artifacts and runs
+scripts/mlruns
+mlartifacts
 mlruns/
 mlflow/
 mlflow*.log
