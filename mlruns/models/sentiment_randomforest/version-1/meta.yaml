@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1747187695262
+current_stage: None
+description: ''
+last_updated_timestamp: 1747187695262
+name: sentiment_randomforest
+run_id: ad154a590c364e3e9d53a4e3e83a2577
+run_link: ''
+source: mlflow-artifacts:/744206330945824458/ad154a590c364e3e9d53a4e3e83a2577/artifacts/randomforest
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/744206330945824458/ad154a590c364e3e9d53a4e3e83a2577/artifacts/randomforest
+user_id: null
+version: 1

@@ -1,0 +1,17 @@
+=== RELATÓRIO DE ANÁLISE DE SENTIMENTOS ===
+
+Total de comentários analisados: 199
+
+=== DISTRIBUIÇÃO DE SENTIMENTOS ===
+sentiment
+Positive    62.311558
+Negative    25.125628
+Neutral     12.562814
+
+=== PRINCIPAIS RAZÕES ===
+Comentários Positivos:
+[('good food', 2), ('friendly', 2), ('food quality', 2), ('good food and convenient location', 1), ('cozy and cute ambiance', 1), ('delicious authentic italian food', 1), ('focus on food quality', 1), ('delicious food', 1), ('amazing time', 1), ('surprisingly fresh food due to high turnover', 1)]
+
+Comentários Negativos:
+[('slow service', 2), ('below average knowledge', 1), ('multiple service errors including incorrect seating, wrong orders, delayed and undercooked food, and overcharging', 1), ('rude behavior', 1), ('strong scents affected taste buds', 1), ('overpriced', 1), ('bad food, poor service, dishonesty', 1), ('under-cooked and chewy lamb meat', 1), ('outdated reservation system', 1), ('excessive spiciness and loss of flavor', 1)]
+

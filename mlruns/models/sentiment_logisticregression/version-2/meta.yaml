@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1747187847362
+current_stage: None
+description: ''
+last_updated_timestamp: 1747187847362
+name: sentiment_logisticregression
+run_id: be478411bc5f41b0b07fb0a35285914a
+run_link: ''
+source: mlflow-artifacts:/744206330945824458/be478411bc5f41b0b07fb0a35285914a/artifacts/logisticregression
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/744206330945824458/be478411bc5f41b0b07fb0a35285914a/artifacts/logisticregression
+user_id: null
+version: 2

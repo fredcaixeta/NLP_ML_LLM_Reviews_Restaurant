@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/768184713491958936/8d9c0a421b134b77984a4f68bffdfef9/artifacts
+end_time: 1747188433819
+entry_point_name: ''
+experiment_id: '768184713491958936'
+lifecycle_stage: active
+run_id: 8d9c0a421b134b77984a4f68bffdfef9
+run_name: Validation_logisticregression
+run_uuid: 8d9c0a421b134b77984a4f68bffdfef9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747188433424
+status: 4
+tags: []
+user_id: fuedj

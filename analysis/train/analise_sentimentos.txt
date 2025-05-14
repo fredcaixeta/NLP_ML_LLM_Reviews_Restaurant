@@ -1,0 +1,17 @@
+=== RELATÓRIO DE ANÁLISE DE SENTIMENTOS ===
+
+Total de comentários analisados: 651
+
+=== DISTRIBUIÇÃO DE SENTIMENTOS ===
+sentiment
+Positive    64.976959
+Negative    23.655914
+Neutral     11.367127
+
+=== PRINCIPAIS RAZÕES ===
+Comentários Positivos:
+[('food quality', 9), ('recommendation', 9), ('strong endorsement', 5), ('good value for money', 5), ('intention to return', 5), ('value for money', 4), ('good food', 4), ('pleasant ambiance', 4), ('friendly service', 3), ('strong recommendation', 3)]
+
+Comentários Negativos:
+[('slow service', 4), ('rude behavior', 3), ('disappointment', 3), ('overpriced', 3), ('inattentive service', 2), ('overrated', 2), ('poor food quality', 2), ('unwillingness to return', 2), ('food quality issues', 2), ('reservation issue', 2)]
+

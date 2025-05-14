@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/744206330945824458/a54e15eda2da4aa59cd24f86d9084598/artifacts
+end_time: 1747187833455
+entry_point_name: ''
+experiment_id: '744206330945824458'
+lifecycle_stage: active
+run_id: a54e15eda2da4aa59cd24f86d9084598
+run_name: RandomForest
+run_uuid: a54e15eda2da4aa59cd24f86d9084598
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747187821598
+status: 3
+tags: []
+user_id: fuedj

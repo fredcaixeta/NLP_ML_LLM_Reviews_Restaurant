@@ -1,0 +1,27 @@
+artifact_path: randomforest
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.9
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.2
+is_signature_from_type_hint: false
+mlflow_version: 2.21.2
+model_size_bytes: 3448682
+model_uuid: e8d0451778d34617a4caca82b3fdf871
+prompts: null
+run_id: a54e15eda2da4aa59cd24f86d9084598
+signature:
+  inputs: '[{"type": "string", "name": "comment_cleaned", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "object", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-05-14 01:57:08.184211'

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/744206330945824458/0ae9f3f5dabc4c10911e63d27a33d01f/artifacts
+end_time: 1747187108731
+entry_point_name: ''
+experiment_id: '744206330945824458'
+lifecycle_stage: active
+run_id: 0ae9f3f5dabc4c10911e63d27a33d01f
+run_name: LinearSVC_TFIDF_Run_1
+run_uuid: 0ae9f3f5dabc4c10911e63d27a33d01f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747187108620
+status: 4
+tags: []
+user_id: fuedj

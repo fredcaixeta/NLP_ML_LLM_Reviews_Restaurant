@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/768184713491958936/fe334645bb5f42068580c4a3baa72e46/artifacts
+end_time: 1747188981812
+entry_point_name: ''
+experiment_id: '768184713491958936'
+lifecycle_stage: active
+run_id: fe334645bb5f42068580c4a3baa72e46
+run_name: Validation_randomforest
+run_uuid: fe334645bb5f42068580c4a3baa72e46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747188981396
+status: 4
+tags: []
+user_id: fuedj
