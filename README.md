@@ -1,5 +1,7 @@
 # Análise de Sentimento e Modelagem de Tópicos para Hub de Restaurantes
 
+## Feat/Trim-Similarity
+
 ## 🎯 Objetivo do Projeto
 
 Este projeto visa desenvolver uma solução para analisar avaliações de clientes de restaurantes em uma plataforma hub. O objetivo principal é classificar o sentimento (positivo, negativo, neutro) dos comentários e identificar os tópicos de discussão, a fim de auxiliar os estabelecimentos parceiros a melhorarem seus serviços.
