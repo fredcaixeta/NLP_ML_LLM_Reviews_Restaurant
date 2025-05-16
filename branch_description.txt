@@ -1,1 +1,1 @@
-ajustar dados de treinamento - duplicados & ajustar semantica
+dados sinteticos
