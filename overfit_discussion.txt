@@ -1,0 +1,2 @@
+A inferencia do modelo aos dados de validação tiveram menor acurácia do que os de dado de treinamento.
+Mas ainda assim são valores rasoavelmente aceitados, uma vez que houveram dados sintéticos agregados nos treinamentos.
