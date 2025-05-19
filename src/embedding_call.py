@@ -8,6 +8,9 @@ from tqdm import tqdm
 import pandas as pd
 import numpy as np
 
+model = StaticModel.from_pretrained("minishlab/potion-base-2M")
+model.encode()
+
 class Model2VecEmbeddings(Embeddings):
     """Wrapper para o Model2Vec como Embeddings do LangChain"""
     def __init__(self, model_name: str = "minishlab/potion-base-2M", similarity_threshold: float = 0.85):
