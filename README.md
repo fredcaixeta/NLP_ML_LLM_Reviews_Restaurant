@@ -1,6 +1,6 @@
 # Análise de Sentimento e Modelagem de Tópicos para Hub de Restaurantes
 
-## Feat/Trim-Similarity
+## Feat/Tensorflow
 
 ## 🎯 Objetivo do Projeto
 
