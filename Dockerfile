@@ -20,13 +20,7 @@ RUN mkdir /app/artifacts
 # Ex: mlruns/1/abcdef1234567890/artifacts/train_clusters.npy
 
 # Copiar o classificador PKL
-COPY model_inference_app/artifacts/v1_final.pkl /app/artifacts/v1_final.pkl
-
-# Copiar os embeddings de treino NPY
-COPY model_inference_app/artifacts/X_train_vec.npy /app/artifacts/X_train_vec.npy
-
-# Copiar os cluster IDs de treino NPY
-COPY model_inference_app/artifacts/train_clusters.npy /app/artifacts/train_clusters.npy
+COPY model_inference_app/artifacts/best_sentiment_model.h5 /app/artifacts/best_sentiment_model.h5
 
 # --- Copiar o código da aplicação FastAPI e módulos customizados ---
 COPY model_inference_app/app.py /app/app.py

@@ -2,7 +2,6 @@ fastapi
 uvicorn
 pydantic
 numpy
-scikit-learn
 model2vec
 pandas
-tqdm
+tensorflow
