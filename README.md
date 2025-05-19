@@ -88,7 +88,7 @@ O pipeline geral inclui:
 docker build -t tensorflow-nlp-train .
 
 # Exemplo teórico para um serviço rodando na porta 8000 dentro do contêiner
-docker run -p 8000:8000 seu-imagem-de-servico-nlp
+docker run -p 8000:8000 tensorflow-nlp-train
 
 ## Rodando o Modelo pelo APP do Docker
 curl http://localhost:8000/health
