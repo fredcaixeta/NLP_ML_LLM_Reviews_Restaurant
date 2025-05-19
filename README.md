@@ -82,7 +82,7 @@ O pipeline geral inclui:
 * **Embedding:** O script utiliza o modelo pré-treinado `minishlab/potion-base-32M` (através da classe `Model2VecEmbeddings`) para converter texto em vetores numéricos.
 * **Classificação:** Uma Rede Neural Feedforward (MLP) com duas camadas densas ocultas (com ativação 'relu' e dropout) e uma camada de saída com 3 neurônios e ativação 'softmax' é treinada nos embeddings.
 
-## Uso com Docker
+# Uso com Docker
 
 # Exemplo para um criar a imagem
 docker build -t tensorflow-nlp-train .
