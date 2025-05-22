@@ -127,7 +127,6 @@ models/
 *.npy
 *.pt
 *.pth
-*.h5
 
 # MLflow artifacts and runs
 scripts/mlruns
